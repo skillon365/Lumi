@@ -28,7 +28,6 @@
         "react-redux": "7.2.6",
         "react-redux-i18n": "1.9.3",
         "react-router-dom": "5.3.0",
-        "react-scripts": "4.0.3",
         "redux": "4.1.2",
         "redux-thunk": "2.4.1",
         "save": "2.4.0",
@@ -76,6 +75,7 @@
         "@types/socket.io-client": "1.4.36",
         "@types/superagent": "4.1.13",
         "prettier": "2.5.1",
+        "react-scripts": "^4.0.3",
         "redux-mock-store": "1.5.4"
     },
     "engines": {
